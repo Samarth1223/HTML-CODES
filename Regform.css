@@ -1,0 +1,15 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    border: black solid;
+    margin-left: 10cm;
+    margin-right: 10cm;
+}
+
+table {
+    font-size: xx-large;
+    border: black solid;
+    margin-left: 7cm;
+    color: black;
+    font-family: sans-serif;
+}
